@@ -8,4 +8,4 @@ A cycle-based 2D java game by Ali Kodera, Hana Hilmy and Mohammed Rammah
 <b>How to open the game:</b> download the file and import as project. Run as CommandCenter inside the controller package. 
 	
   <h2>Screenshots</h2>
- <img src="https://i.ibb.co/7QX09bn/rescuesimulationwelcomescreen.png" alt="rescuesimulationwelcomescreen" border="0"> <img src="https://i.ibb.co/6J1nNkx/rescuesimulationgame.png" alt="rescuesimulationgame" border="0">
+ <img src="https://i.ibb.co/7QX09bn/rescuesimulationwelcomescreen.png" alt="rescuesimulationwelcomescreen" border="1"> <img src="https://i.ibb.co/6J1nNkx/rescuesimulationgame.png" alt="rescuesimulationgame" border="1">
