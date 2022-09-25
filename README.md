@@ -1,5 +1,5 @@
 <h2>Rescue Simulation Game</h2>
-A cycle-based 2D java game by Ali Kodera, Hana Hilmy and Mohammed Rammah
+A cycle-based 2D java game 
 
 <p>
 
